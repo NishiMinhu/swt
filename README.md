@@ -23,3 +23,7 @@ or simply in this case
 
 It is bothersome, please don't make any change unless you need to, unless it reports some weird syntax. It is advisable for you to check out its doc before making any change:
 <https://jestjs.io/docs/getting-started> 
+
+## Babelrc
+
+### `.babelrc` hols the configuration for Jest in this project. It should not be changed unless absolutely necessary. 

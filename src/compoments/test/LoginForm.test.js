@@ -3,6 +3,7 @@ import React from "react";
 import { render, fireEvent } from "@testing-library/react";
 import { BrowserRouter } from "react-router-dom";
 import LoginForm from "../login/LoginForm";
+import '@testing-library/jest-dom'
 
 describe("LoginForm", () => {
   test("renders the login form", () => {

@@ -4,7 +4,7 @@ import PersonIcon from "@mui/icons-material/Person";
 import LockIcon from "@mui/icons-material/Lock";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import GoogleIcon from "@mui/icons-material/Google";
-import "./LoginForm.css";
+//import "./LoginForm.css";
 
 const LoginForm = () => {
   const LOGO = './sample.jpg';
